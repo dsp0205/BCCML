@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'BCCML'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67EC3CAD12B34E878640C31672220C5B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2723C166BAE47FBAFA5162BCF22FFC4 }}
