@@ -1,0 +1,4 @@
+Breast Cancer Classification Model deployed using the Web App resource group from Azure.
+The model classifies whether the patient is diagnosed with Cancer or not
+The Classification is done through random forest classifier.
+Random forest is a Supervised Machine Learning Algorithm that is used widely in Classification and Regression problems.
